@@ -267,6 +267,10 @@
             .main-container .content-section .start-class:hover {
                 background-color: rgba(138, 126, 126, 0.637);
             }
+            
+            .main-container input {
+                cursor: pointer;
+            }
             /*responsive css 1080px*/
             
             @media screen and (max-width:1080px) {
