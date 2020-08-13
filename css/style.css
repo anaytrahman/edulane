@@ -67,6 +67,10 @@
                 border: none;
             }
             
+            .btn {
+                cursor: pointer;
+            }
+            
             .main-container .nav-menu-wrapper .menu-wrapper {
                 background: #8dc153;
                 /* padding: 20px 0px 1px 0px;*/
@@ -258,6 +262,10 @@
                 border: none;
                 padding: 4px 8px;
                 border-radius: 9px;
+            }
+            
+            .main-container .content-section .start-class:hover {
+                background-color: rgba(138, 126, 126, 0.637);
             }
             /*responsive css 1080px*/
             
